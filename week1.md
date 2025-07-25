@@ -200,4 +200,12 @@ J301황찬우: 매일 피어 컴파일링 후 상장 제작, 피어 피드백 �
 S014박하연: 매일 피어 피드백 후 상장 제작, DM으로 전달.
 ```
 
+수행 결과:
+```
+S014박하연:
+```
+<img width="955" height="587" alt="image" src="https://github.com/user-attachments/assets/c3ff16f5-0ddc-4e30-bf64-81463da57a09" />
+<img width="760" height="467" alt="image" src="https://github.com/user-attachments/assets/3be7790d-3869-40a6-9211-d6c3fe719b7b" />
+<img width="895" height="666" alt="image" src="https://github.com/user-attachments/assets/9271d8c5-b115-4817-b960-1c69cef3f73c" />
+<img width="605" height="466" alt="image" src="https://github.com/user-attachments/assets/9500c089-edd7-4504-a483-0587abc2bf77" />
 
