@@ -20,6 +20,14 @@
   * 각 팀원이 AI에게 간단한 장면 하나씩 생성
   * 이를 이어붙여 하나의 영상 스토리 구성
 * **달성 기준**: 최소 2개의 스토리 영상 완성 및 피어 세션에서 시청
+
+
+- 입력 : 코딩하다가 영혼을 잃고있는 나  ->  열 받아서 컴퓨터 부시는 나
+
+- 출력 :
+
+  
+
 ---
 
 ### 2. 📸 **AI가 만든 팀원 단체 사진 – “우리도 한 팀이었다!”**
@@ -31,6 +39,17 @@
   * chat gpt 이미지 생성기를 활용할 것
   * 각자 사진과 외형 정보 입력 → AI로 단체 사진 생성
 * **달성 기준**: 팀원 모두가 포함된 단체 이미지 1장 이상 생성 및 공유
+
+
+- 입력 예시
+  <img width="1653" height="934" alt="image" src="https://github.com/user-attachments/assets/b8b336cc-6ac4-4db5-8e7e-5721a8ba5e93" />
+
+- 출력 예시
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca68cca2-ebe5-44ff-a513-5f9620ca2ae0" />
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f844438b-e527-4b64-982a-0b5591af5f8f" />
+
+
+
 
 ---
 
