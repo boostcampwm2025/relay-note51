@@ -104,3 +104,19 @@
 
 ---
 
+
+<br />
+
+<details>
+<summary><strong>J289 현승준</strong>: <a href="https://github.com/boostcampwm2025/relay-note51/blob/main/week2.md#2--ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%ED%8C%80%EC%9B%90-%EB%8B%A8%EC%B2%B4-%EC%82%AC%EC%A7%84--%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%95%9C-%ED%8C%80%EC%9D%B4%EC%97%88%EB%8B%A4">AI가 만든 팀원 단체 사진 – "우리도 한 팀이었다!"</a></summary>
+<br />
+
+
+저는 [미션 2](https://github.com/boostcampwm2025/relay-note51/blob/main/week2.md#2--ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%ED%8C%80%EC%9B%90-%EB%8B%A8%EC%B2%B4-%EC%82%AC%EC%A7%84--%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%95%9C-%ED%8C%80%EC%9D%B4%EC%97%88%EB%8B%A4) 를 선택했습니다.
+
+
+피어 팀을 두 번이나 만나고 헤어지면서 사진 한 장 남기지 못한 점이 아쉬움으로 남습니다. <br />
+다가오는 팀원 분들과 기념 사진을 남기고, 또 찍을 때마다 AI에게 다른 스타일로 변환을 부탁한다면 <br />
+특별한 추억이 될 것 같았습니다!
+
+</details>
