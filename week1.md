@@ -199,11 +199,55 @@ J295황소정: 매일 챌린지 항목에 대해 AI 서비스들로 비교
 J301황찬우: 매일 피어 컴파일링 후 상장 제작, 피어 피드백 시 공개.
 S014박하연: 매일 피어 피드백 후 상장 제작, DM으로 전달.
 ```
+---
 
 수행 결과:
-```
-S014박하연:
-```
+
+
+
+## J301황찬우:
+
+- 1st 스크립트
+    - 어제의 부스트캠프 미션을 잘 해결한 동료 캠퍼에게 상장을 만들어주고싶어
+    - 2025년 7월 21일 (월), 위 사람은 day06 미션에서 '클래스 다이어그램을 잘 그려내었고, 객체지향 패러다임에 대한 이해도가 높이게 이 상을 수여함' 이라고 하고싶어. 수여자는 부스트캠퍼 J301, 수상자는 부스트캠퍼J232.
+    - 이미지 상장으로 제공해줘.
+
+- 1st 결과
+<img width="1024" height="1536" alt="ChatGPT 1st" src="https://github.com/user-attachments/assets/02bdd826-ad44-4f5f-82f5-bba151298b1b" />
+
+
+
+- 2nd 스크립트
+    - 두번째 상장을 만들거야. 수여자는 같고, 수상자는 부스트캠퍼 J280
+    FAT (File Allocation Table) 학습 정리를 잘했고, 동료들에게 도움이 되어서 주는 상이야. 어제 양식에서 작은글씨 첫줄 수여자는 제외해주고 사진으로 줘.
+    - 폰트가 너무 많이 깨졌네, 수정해줘.
+
+- 2nd 결과
+<img width="1024" height="1536" alt="ChatGPT 2nd" src="https://github.com/user-attachments/assets/dc8a192e-e924-4add-847b-f7e02ad96d36" />
+
+
+- 3rd 스크립트
+    - 세번째 상장을 만들거야. 오늘의 수상자는 부스트캠퍼 J138이야. 본인의 고민 포인트를 잘 정리했고, 동료들도 분명 고민 했을 부분을 본인은 어떻게 생각했는지 README에 공유한 부분에 대해서. 
+
+- 3rd 결과
+<img width="1024" height="1536" alt="ChatGPT 3rd" src="https://github.com/user-attachments/assets/3a0a2bf0-2939-450f-a086-2a6ac802ac7c" />
+
+
+- 4th 스크립트
+    - 이전에 했던거 다 없애고. 새로운 상장을 PDF로 만들거야. 상단 중앙에 트로피, 전체 페이지는 약간 노랗게, 진하고 멋진 테두리가 있고, 중앙부터 아래까지 해서 상 이름, 수상자, 내용, 수여자, 날짜 순서로 할 예정이야. 폰트는 내가 제공해줄게. 이번 수상자는 week2 team40 전원이야. 한주동안 매일매일 빠지지않고 모든 미션에 최선을 다해서 상을 주고싶어
+    - 무료 한글 폰트 제공
+
+- 4th 결과
+<img width="789" height="1120" alt="ChatGPT 4th" src="https://github.com/user-attachments/assets/464dc7e5-8002-411b-894e-c99e80e27506" />
+
+- 느낀점:
+  - ChatGPT의 이미지 생성 기능에서 한글 폰트가 깨지는 오류는 유명함.
+  - 폰트가 깨지지 않은 상장을 제작하기에는 PDF 에서 벡터 텍스트로 제작이 유리 (폰트 제공 필요)
+  - PDF로 제작 시 추가 이미지 삽입은 직접 해야함 (트로피 사진 등)
+
+
+## S014박하연:
+
 <img width="955" height="587" alt="image" src="https://github.com/user-attachments/assets/c3ff16f5-0ddc-4e30-bf64-81463da57a09" />
 <img width="760" height="467" alt="image" src="https://github.com/user-attachments/assets/3be7790d-3869-40a6-9211-d6c3fe719b7b" />
 <img width="895" height="666" alt="image" src="https://github.com/user-attachments/assets/9271d8c5-b115-4817-b960-1c69cef3f73c" />
