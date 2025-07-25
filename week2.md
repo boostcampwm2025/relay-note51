@@ -53,7 +53,8 @@
 
 - 출력 예시
   <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca68cca2-ebe5-44ff-a513-5f9620ca2ae0" />
-  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f844438b-e527-4b64-982a-0b5591af5f8f" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d16545e-b655-4df7-b901-2c3fedc199ee" />
+
 
 
 
