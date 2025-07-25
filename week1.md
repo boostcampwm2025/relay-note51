@@ -213,7 +213,7 @@ S014박하연: 매일 피어 피드백 후 상장 제작, DM으로 전달.
     - 이미지 상장으로 제공해줘.
 
 - 1st 결과
-<img width="1024" height="1536" alt="ChatGPT 1st" src="https://github.com/user-attachments/assets/02bdd826-ad44-4f5f-82f5-bba151298b1b" />
+<img width="512" height="768" alt="ChatGPT 1st" src="https://github.com/user-attachments/assets/02bdd826-ad44-4f5f-82f5-bba151298b1b" />
 
 
 
@@ -223,14 +223,14 @@ S014박하연: 매일 피어 피드백 후 상장 제작, DM으로 전달.
     - 폰트가 너무 많이 깨졌네, 수정해줘.
 
 - 2nd 결과
-<img width="1024" height="1536" alt="ChatGPT 2nd" src="https://github.com/user-attachments/assets/dc8a192e-e924-4add-847b-f7e02ad96d36" />
+<img width="512" height="768" alt="ChatGPT 2nd" src="https://github.com/user-attachments/assets/dc8a192e-e924-4add-847b-f7e02ad96d36" />
 
 
 - 3rd 스크립트
     - 세번째 상장을 만들거야. 오늘의 수상자는 부스트캠퍼 J138이야. 본인의 고민 포인트를 잘 정리했고, 동료들도 분명 고민 했을 부분을 본인은 어떻게 생각했는지 README에 공유한 부분에 대해서. 
 
 - 3rd 결과
-<img width="1024" height="1536" alt="ChatGPT 3rd" src="https://github.com/user-attachments/assets/3a0a2bf0-2939-450f-a086-2a6ac802ac7c" />
+<img width="512" height="768" alt="ChatGPT 3rd" src="https://github.com/user-attachments/assets/3a0a2bf0-2939-450f-a086-2a6ac802ac7c" />
 
 
 - 4th 스크립트
@@ -238,7 +238,7 @@ S014박하연: 매일 피어 피드백 후 상장 제작, DM으로 전달.
     - 무료 한글 폰트 제공
 
 - 4th 결과
-<img width="789" height="1120" alt="ChatGPT 4th" src="https://github.com/user-attachments/assets/464dc7e5-8002-411b-894e-c99e80e27506" />
+<img width="512" height="768" alt="ChatGPT 4th" src="https://github.com/user-attachments/assets/464dc7e5-8002-411b-894e-c99e80e27506" />
 
 - 느낀점:
   - ChatGPT의 이미지 생성 기능에서 한글 폰트가 깨지는 오류는 유명함.
