@@ -27,7 +27,8 @@
 - 출력 예시:
   <img width="620" height="316" alt="image" src="https://github.com/user-attachments/assets/9818802d-7583-4018-a951-965badb757e7" />
 
-<img width="320" height="178" alt="image" src="https://github.com/user-attachments/assets/3b9ccfba-aadb-4db9-a590-35c1bb43af9b" />
+![051B1779-29C4-46AA-BDF9-2F4F1A06D02E](https://github.com/user-attachments/assets/aca781dd-a1b2-4b3a-a1cd-4b72a239188d)
+
 
   
 
