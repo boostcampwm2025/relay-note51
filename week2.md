@@ -22,9 +22,10 @@
 * **달성 기준**: 최소 2개의 스토리 영상 완성 및 피어 세션에서 시청
 
 
-- 입력 : 코딩하다가 영혼을 잃고있는 나  ->  열 받아서 컴퓨터 부시는 나
+- 입력 예시 : 코딩하다가 영혼을 잃고있는 나  ->  열 받아서 컴퓨터 부시는 나
 
-- 출력 :
+- 출력 예시:
+<img width="320" height="178" alt="image" src="https://github.com/user-attachments/assets/3b9ccfba-aadb-4db9-a590-35c1bb43af9b" />
 
   
 
