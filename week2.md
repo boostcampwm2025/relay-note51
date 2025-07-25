@@ -25,7 +25,10 @@
 - 입력 예시 : 코딩하다가 영혼을 잃고있는 나  ->  열 받아서 컴퓨터 부시는 나
 
 - 출력 예시:
-  <img width="620" height="316" alt="image" src="https://github.com/user-attachments/assets/9818802d-7583-4018-a951-965badb757e7" />
+
+  
+![67E6F117-472B-4D60-8BB9-B22E10AFF66E](https://github.com/user-attachments/assets/077408f1-ec43-480f-8078-654f7408a03d)
+
 
 ![051B1779-29C4-46AA-BDF9-2F4F1A06D02E](https://github.com/user-attachments/assets/aca781dd-a1b2-4b3a-a1cd-4b72a239188d)
 
