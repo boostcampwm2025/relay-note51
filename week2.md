@@ -107,6 +107,11 @@
 
 <br />
 
+
+## 미션 선택
+
+<br />
+
 <details>
 <summary><strong>J289 현승준</strong>: <a href="https://github.com/boostcampwm2025/relay-note51/blob/main/week2.md#2--ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%ED%8C%80%EC%9B%90-%EB%8B%A8%EC%B2%B4-%EC%82%AC%EC%A7%84--%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%95%9C-%ED%8C%80%EC%9D%B4%EC%97%88%EB%8B%A4">AI가 만든 팀원 단체 사진 – "우리도 한 팀이었다!"</a></summary>
 <br />
