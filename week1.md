@@ -248,8 +248,18 @@ S014박하연: 매일 피어 피드백 후 상장 제작, DM으로 전달.
 
 ## S014박하연:
 
+- 수행 방법
+  - AI : gemini CLI
+  - 방법 : clone 해둔 수상자 gist 내용을 분석해서 상장 제작
+  - 프롬프트 : "현재 폴더에 있는 .md 파일들과 .swift 파일들을 분석해주세요. 분석된 결과로 위트있고 독특한 상장을 만들어주세요. 구현 내용이나 설계 내용, 학습 내용에서 인상깊었던 부분을 기반으로 내용을 만들어주세요."
+
+- 수행 사진
 <img width="955" height="587" alt="image" src="https://github.com/user-attachments/assets/c3ff16f5-0ddc-4e30-bf64-81463da57a09" />
 <img width="760" height="467" alt="image" src="https://github.com/user-attachments/assets/3be7790d-3869-40a6-9211-d6c3fe719b7b" />
 <img width="895" height="666" alt="image" src="https://github.com/user-attachments/assets/9271d8c5-b115-4817-b960-1c69cef3f73c" />
 <img width="605" height="466" alt="image" src="https://github.com/user-attachments/assets/9500c089-edd7-4504-a483-0587abc2bf77" />
 
+- 느낀점
+첫 날(월요일) 피어 세션에서 각자 무슨 릴레이 프로젝트 미션을 맡았는지 공유했었는데, 저는 비밀로 하고 내일 알게되실거라고 기대감을 심어주고 다음날 DM방에 짜잔 하고 올렸어요.
+주는 사람도(?) 받는 사람도 한 번은 웃을 수 있는 미션이라고 생각했습니다.
+언제 올라오나 기다려주기도 하고, 서로 축하해주기도 하면서 4일만에 부쩍 친근해진 것 같아요!
