@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary><strong>S010 김해원</summary>
+<summary><strong>S010 김해원</strong></summary>
 <br />
 
 저는 미션 3를 선택했습니다.
@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary><strong>J155 엄태동</summary>
+<summary><strong>J155 엄태동</strong></summary>
 <br />
 
 저는 미션 2. 📸 **AI가 만든 팀원 단체 사진 – “우리도 한 팀이었다!”**를 선택했습니다.
@@ -135,7 +135,7 @@
 </details>
 
 <details>
-<summary><strong>J053 김영서</summary>
+<summary><strong>J053 김영서</strong></summary>
 <br />
 
 저는 미션 3를 선택했습니다.
@@ -147,7 +147,7 @@
 ## 미션 결과
 
 <details>
-<summary><strong>J053 김영서</summary>
+<summary><strong>J053 김영서</strong></summary>
 <br />
 
 - 해당 퀘스트를 수행하는 데 AI는 어떤 역할이었나요? AI가 없으면 동일한 결과를 얻을 수 없을까요?
@@ -163,7 +163,7 @@
 </details>
 
 <details>
-<summary><strong>J155 엄태동</summary>
+<summary><strong>J155 엄태동</strong></summary>
 <br />
 
 ## 1. 이번 프로젝트를 진행하며 느낀 점
@@ -200,7 +200,7 @@
 
 
 <details>
-<summary><strong>J289 현승준</summary>
+<summary><strong>J289 현승준</strong></summary>
 <br />
 
 ### 수행 결과
@@ -220,7 +220,7 @@
 ### AI의 역할과 배운 점
 
 처음에는 단순한 프롬프트 한두 줄로 이미지 생성을 시도했지만, <br />
-**이미지가 생성되지 않거나 기괴한 이미지가 생성**되기도 했습니다. <br />
+**이미지가 생성되지 않거나 기괴한 이미지가 생성** 되기도 했습니다. <br />
 
 특히 이미지 생성에 시간이 오래 걸리다 보니, <br />
 **처음부터 정확하고 구체적인 프롬프트 설계가 필요하다는 점을 절실히 느꼈습니다.** <br />
