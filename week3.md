@@ -187,10 +187,9 @@ AI와 피어 세션 미션을 진행하던 중, “어떻게 하면 더 재미�
 
 **수행 결과**:
 
-<img width="1462" height="506" alt="스크린샷 2025-08-08 오전 1 51 47-side" src="https://gist.github.com/user-attachments/assets/c441adba-38c4-4d97-9a6a-4a9ae2c352c9" />
+<img width="1462" height="506" alt="Image" src="https://github.com/user-attachments/assets/71e4c892-b2c4-424a-92f4-098659c04a9a" />
 
-<img width="1060" height="506" alt="스크린샷 2025-08-08 오전 1 52 20-side" src="https://gist.github.com/user-attachments/assets/b2884ced-7f56-4191-99a6-6caa5711fc72" />
-
+<img width="1060" height="506" alt="Image" src="https://github.com/user-attachments/assets/6487cade-6c94-47e6-9227-9ae80ac2f17a" />
 
 ---
 
