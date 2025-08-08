@@ -186,7 +186,9 @@ AI와 피어 세션 미션을 진행하던 중, “어떻게 하면 더 재미�
 - 리뷰 내용을 릴레이 노트에 적고, 얻은 인사이트를 정리한다.
 
 **수행 결과**:
+
 <img width="1462" height="506" alt="스크린샷 2025-08-08 오전 1 51 47-side" src="https://gist.github.com/user-attachments/assets/c441adba-38c4-4d97-9a6a-4a9ae2c352c9" />
+
 <img width="1060" height="506" alt="스크린샷 2025-08-08 오전 1 52 20-side" src="https://gist.github.com/user-attachments/assets/b2884ced-7f56-4191-99a6-6caa5711fc72" />
 
 
